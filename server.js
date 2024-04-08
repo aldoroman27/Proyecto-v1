@@ -6,6 +6,17 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
+/* Este es para la base de datos en línea
+const db = mysql.createConnection({
+    host: "chiva-puma.cbaskge6gh1c.us-east-2.rds.amazonaws.com",
+    user: "root",
+    password: "12345678",
+    database: "chivapuma",
+    port: "3306"
+})
+*/
+
+/* Este es utilizado para el local */
 const db = mysql.createConnection({
     host: "localhost",
     user: "root",
@@ -18,8 +29,10 @@ app.post('/Login', (req, res) => {
     db.query(sql, [req.body.email, req.body.password], (err, data) => {
         if (err) return res.json("ERROR");
         if (data.length > 0) {
+            console.log("Inicio de sesión exitoso");
             return res.json("Login Success")
         } else {
+            console.log("Error a la hora del registro");
             return res.json("No Record")
         }
     })
