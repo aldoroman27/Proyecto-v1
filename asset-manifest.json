@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Proyecto-v1/static/css/main.966e2de2.css",
-    "main.js": "/Proyecto-v1/static/js/main.02995ebd.js",
+    "main.js": "/Proyecto-v1/static/js/main.c8c1ca12.js",
     "static/js/453.ab5c9665.chunk.js": "/Proyecto-v1/static/js/453.ab5c9665.chunk.js",
     "static/media/pumas-jersey.png": "/Proyecto-v1/static/media/pumas-jersey.66f2a75ec68624b19ff8.png",
     "static/media/leones-udg.jpg": "/Proyecto-v1/static/media/leones-udg.7d432de7e708dcb3dd62.jpg",
@@ -13,11 +13,11 @@
     "static/media/chivas-logo.png": "/Proyecto-v1/static/media/chivas-logo.f2ab4f1329eda75db4f4.png",
     "index.html": "/Proyecto-v1/index.html",
     "main.966e2de2.css.map": "/Proyecto-v1/static/css/main.966e2de2.css.map",
-    "main.02995ebd.js.map": "/Proyecto-v1/static/js/main.02995ebd.js.map",
+    "main.c8c1ca12.js.map": "/Proyecto-v1/static/js/main.c8c1ca12.js.map",
     "453.ab5c9665.chunk.js.map": "/Proyecto-v1/static/js/453.ab5c9665.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.966e2de2.css",
-    "static/js/main.02995ebd.js"
+    "static/js/main.c8c1ca12.js"
   ]
 }
