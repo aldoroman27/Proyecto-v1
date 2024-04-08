@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Proyecto-v1/static/css/main.966e2de2.css",
+    "main.js": "/Proyecto-v1/static/js/main.02995ebd.js",
+    "static/js/453.ab5c9665.chunk.js": "/Proyecto-v1/static/js/453.ab5c9665.chunk.js",
+    "static/media/pumas-jersey.png": "/Proyecto-v1/static/media/pumas-jersey.66f2a75ec68624b19ff8.png",
+    "static/media/leones-udg.jpg": "/Proyecto-v1/static/media/leones-udg.7d432de7e708dcb3dd62.jpg",
+    "static/media/liga-mx.jpg": "/Proyecto-v1/static/media/liga-mx.69791d8a5ae6af109809.jpg",
+    "static/media/jersey-leon.jpg": "/Proyecto-v1/static/media/jersey-leon.37adcb7dbc8aea305f87.jpg",
+    "static/media/jersey-chivas.jpg": "/Proyecto-v1/static/media/jersey-chivas.a40dcb798b7f5dbc0853.jpg",
+    "static/media/neca.jpg": "/Proyecto-v1/static/media/neca.b9c97ec4d0df73caf4fe.jpg",
+    "static/media/pumas-logo.jpeg": "/Proyecto-v1/static/media/pumas-logo.b47fd1a0cfbdf599d263.jpeg",
+    "static/media/chivas-logo.png": "/Proyecto-v1/static/media/chivas-logo.f2ab4f1329eda75db4f4.png",
+    "index.html": "/Proyecto-v1/index.html",
+    "main.966e2de2.css.map": "/Proyecto-v1/static/css/main.966e2de2.css.map",
+    "main.02995ebd.js.map": "/Proyecto-v1/static/js/main.02995ebd.js.map",
+    "453.ab5c9665.chunk.js.map": "/Proyecto-v1/static/js/453.ab5c9665.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.966e2de2.css",
+    "static/js/main.02995ebd.js"
+  ]
+}
