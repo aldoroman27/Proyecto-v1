@@ -7,10 +7,11 @@ app.use(express.json());
 app.use(cors());
 
 const db = mysql.createConnection({
-    host: "localhost",
+    host: "chiva-puma.cbaskge6gh1c.us-east-2.rds.amazonaws.com",
     user: "root",
-    password: "",
-    database: "chiva-puma"
+    password: "12345678",
+    database: "chivapuma",
+    port: "3306"
 })
 
 app.post('/Login', (req, res) => {
