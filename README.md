@@ -72,4 +72,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Proyecto-v1
 Proyecto v1, en este proyecto vamos a realizar una tienda en línea de electronica.
+Para ello va a ser importante que estén familiarizados con el uso de la herramienta REACT, dentro del archivos JSON encontrarán un apartado donde vienen todas las librerias que se utilizaron y las cuales serán necesarias para el uso correcto de esta APP.
+### 'npm install ...'
+### 'yarn install ...'
+Sería la manera más común de instalar estas librerías necesarias dentro del proyecto.
+Además de contar con una base de datos de manera local o una base de datos ya desplegada de manera formal. Para que así puedan interactuar con la manera de los registros de los LogIn y los SignIn. Lo ideal para este proyecto es utilizar MySQL.
+Dentro del archivo  de nombre "server.js" únicamente tendrán que modificar las credenciales de acceso que se necesitarán para ingresar a la base de datos donde estará la infomración.
 >>>>>>> b7c18af770e5f8b8c238d58862bc159163d1e553

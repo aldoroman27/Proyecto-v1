@@ -30,6 +30,7 @@ export const Cart = () => {
           <p>Total del carrito *IVA incluido: ${totalAmount}</p>
           <button onClick={() => navigate("/")}>Seguir comprando</button>
           <button onClick={() => navigate("/Payment")}>Proceder al pago</button>
+
         </div>
       ) : (
         <div className='goBack'>
@@ -38,15 +39,6 @@ export const Cart = () => {
         </div>
       )}
       {/* Mostrar información de pago si showPaymentInfo es true */}
-      {showPaymentInfo && (
-        <div className='paymentInfo' type="dark">
-          <div class="card-body">
-            <h5 class="card-title">Metodo de pago</h5>
-            <h6 class="card-subtitle mb-2 text-body-secondary">Numero de cuenta: 6969 6969 6969 6969</h6>
-            <p class="card-text">Tus productos seleccionados se apartaran en el carrito por 60 minutos desde este momento, realiza tu pago a la cuenta indicada, es del Banco del Bienestar a nombre de Cuautemoc Blanco y envia tu comprobante por WhatsApp al número 33 6969 6969.</p>
-          </div>
-        </div>
-      )}
     </div>
   );
 };
