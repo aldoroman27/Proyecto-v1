@@ -1,10 +1,10 @@
 import React, { useState } from 'react'
 import './login.css'
-import user_icon from '../../assets/person.png'
 import email_icon from '../../assets/email.png'
 import password_icon from '../../assets/password.png'
 import axios from 'axios'
 import { useNavigate } from 'react-router-dom'
+import { Payment } from '../../pages/Payment/payment.jsx'
 
 export const Login = () => {
     const [action, setAction] = useState('Iniciar Sesión');
