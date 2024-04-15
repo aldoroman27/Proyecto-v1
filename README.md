@@ -87,5 +87,6 @@ El deploy está realizado por una serie de comandos que se ejecutan dentro de la
 ****![image](https://github.com/aldoroman27/Proyecto-v1/assets/142856302/b2b395fb-0401-42e8-89ed-7eac79e6fd4b)
 
 Dentro de ese mismo archivo, tendremos que especificar en la variable homepage nuestro usuario y el nombre nuestro repositorio para que se haga de manera correcta el deploy.
+
 ![image](https://github.com/aldoroman27/Proyecto-v1/assets/142856302/e946ded6-8096-4642-b9d7-119e219631bd)
 
