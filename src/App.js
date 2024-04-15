@@ -7,6 +7,7 @@ import { Cart } from "./pages/cart/cart";
 import { Login } from './pages/LogIn/login';
 import { SignIn } from './pages/sign-in/sign-in';
 import { Payment } from './pages/Payment/payment';
+import { Sugest } from './pages/sugest/sugest';
 import { ShopContextProvider } from './context/shop-context';
 
 
@@ -39,6 +40,9 @@ function App() {
         /> <
         Route path = '/Payment'
         element = { < Payment / > }
+        /> <
+        Route path = '/Sugest'
+        element = { < Sugest / > }
         /> <
         /Routes> <
         /Router> <
