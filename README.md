@@ -94,3 +94,4 @@ Dentro de ese mismo archivo, tendremos que especificar en la variable homepage n
 # Frontend 
 Dentro de nuestro proyecto encontramos distintas pantallas que navegan a traves del propio proyecto, a continuacion veremos y explicaremos cada una de ellas.
 
+Por ejemplo dentro de las pantallas mas usuales tenemos las de incio la del carrito y la de procesamiento de pago alguna que tambien se tiene que destacar es la de inventario.
