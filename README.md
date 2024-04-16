@@ -91,3 +91,6 @@ Dentro de ese mismo archivo, tendremos que especificar en la variable homepage n
 
 ![image](https://github.com/aldoroman27/Proyecto-v1/assets/142856302/e946ded6-8096-4642-b9d7-119e219631bd)
 
+# Frontend 
+Dentro de nuestro proyecto encontramos distintas pantallas que navegan a traves del propio proyecto, a continuacion veremos y explicaremos cada una de ellas.
+
